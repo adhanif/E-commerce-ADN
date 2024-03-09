@@ -65,14 +65,14 @@ Explore the products
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/adhanif/fs17-Frontend-project.git
+   git clone https://github.com/adhanif/E-commerce-ADN.git
 
    ```
 
 2. Navigate to the project directory.
 
    ```bash
-   cd fs17-Frontend-project
+   cd E-commerce-ADN
 
    ```
 
